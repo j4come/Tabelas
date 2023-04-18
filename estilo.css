@@ -1,0 +1,7 @@
+table, td, th{ 
+font-size: large;
+background-color: rgb(179, 178, 178);
+border: 1px solid black;
+}
+tr#cabeçalho, thead{ text-align: center;}
+td#numeros{text-align: end;}
